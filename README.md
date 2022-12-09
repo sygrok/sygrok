@@ -27,7 +27,8 @@
 <a href="https://reactjs.org/" ><img src="https://user-images.githubusercontent.com/61664693/116169130-b3a03800-a70c-11eb-9a72-bc4842458b80.png" width="40px"></img></a>
 <a href="https://angular.io/" ><img src="https://user-images.githubusercontent.com/61664693/116169133-b438ce80-a70c-11eb-8e91-4d57e3f94851.png" width="40px"></img></a>
 <a href="https://angular.io/" ><img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_960_720.png" width="40px"></img></a>
-
+<a href="https://angular.io/" ><img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png" width="40px"></img></a>
+<a href="https://angular.io/" ><img src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" width="40px"></img></a>
 
 
 <hr>
