@@ -48,7 +48,7 @@
  <a href="https://nodejs.org/en/" ><img src="https://user-images.githubusercontent.com/61664693/116169136-b4d16500-a70c-11eb-8418-48daba4e08ef.png" width="40px"></img></a>
 <a href="https://golang.org/"><img src="https://user-images.githubusercontent.com/61664693/130692276-856d310d-e033-4df0-bafb-cf999bf40aa5.png" width="40px"></img></a>
 <a href="https://www.java.com/"><img src="https://user-images.githubusercontent.com/61664693/116169128-b3a03800-a70c-11eb-8fbe-55a5c4ad2689.png" width="40px"></img></a>
-<a href="https://ionicframework.com/"><img src="https://user-images.githubusercontent.com/61664693/116169148-b6029200-a70c-11eb-8747-163f97723dc4.png" width="40px"></img></a>
+
 <a href="https://www.typescriptlang.org/"><img src="https://user-images.githubusercontent.com/61664693/116169149-b6029200-a70c-11eb-9169-e68b84f77b9c.png" width="40px"></img></a>
 <a href="https://flutter.dev/"><img src="https://user-images.githubusercontent.com/61664693/116169134-b438ce80-a70c-11eb-9029-35fbfdd926ae.png" width="40px"></img></a>
 <a href="https://dart.dev/" ><img src="https://user-images.githubusercontent.com/61664693/116169151-b69b2880-a70c-11eb-9b5f-d6963d384b83.png" width="40px"></img></a>
@@ -74,7 +74,14 @@
   </a>
   </p>
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=torukobyte&theme=nord&v=2&layout=compact&langs_count=10&hide=Markdown,Config,xml,yaml,json,Cocoa,Solution+file,Csproj,textmate,Gitignore+file,Other,Text,cshtml,Groovy,IL,AUTO_DETECTED,csharp,Jsonc,Publish+Profile+file)](https://github.com/sygrok)
 
+
+  <!-- <p>
+  <a href="https://github.com/kalayciburak?tab=repositories" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalayciburak&layout=compact&show_icons=true&theme=nord">
+  </a>
+  </p> -->
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=sygrok&theme=nord)](https://github.com/sygrok)
 </div>
