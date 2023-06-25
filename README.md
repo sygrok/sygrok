@@ -1,44 +1,32 @@
-<!-- ![GitHub stars](https://img.shields.io/github/stars/sygrok?style=social) -->
-<div align="center">
+<h1 align='center'>  Hi There, I'm Berkay Anduv <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 35px> </h1> 
+<h2 align='center'> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> </h2>
+<p align='center'>
+  <a href="https://instagram.com/sygrok"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /</a>&nbsp;&nbsp;&nbsp;&nbsp; 
+  <a href="https://www.linkedin.com/in/berkayanduv/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /</a>&nbsp;&nbsp;&nbsp;&nbsp;
+   <a href="mailto:berkayanduv@hotmail.com"><img src="https://img.shields.io/badge/Gmail-0078D4.svg?&style=for-the-badge&logo=googlet%20gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p><br>
 
-[![GitHub followers](https://img.shields.io/github/followers/sygrok?style=flat&logo=github)](https://github.com/sygrok?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/sygrok?style=flat&logo=github&)](https://github.com/sygrok?tab=repositories)
-<!--- [![Github visitors](https://visitor-badge.glitch.me/badge?page_id=sygrok.visitor-badge)](https://gitHub.com/sygrok) -->
+<a href="https://github.com/sygrok"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sygrok&show_icons=true&bg_color=0d1117&text_color=bdc3c7&title_color=f1c40f&icon_color=f1c40f&hide_border=true" /></a>
+<a href="https://github.com/sygrok"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sygrok&bg_color=0d1117&text_color=bdc3c7&title_color=f1c40f&hide_border=true&layout=compact&langs_count=10&hide=asp.net" /></a><br>
 
-<!-- <img src="https://c.tenor.com/GKlLEY5omHwAAAAC/bored-anime.gif"> -->
-<hr>
-
-
-[//]: # (## ⬇️ Contact me via these platforms!)
-
-[//]: # ()
-[//]: # (<a href="https://www.twitter.com/torukobyte" target="_blank"><img src="https://user-images.githubusercontent.com/61664693/116171179-f237f180-a710-11eb-9ff4-3b3935c74d44.png" width="55px"></img></a>)
-
-[//]: # (<a href="https://www.linkedin.com/in/sygrok" target="_blank"><img src="https://user-images.githubusercontent.com/61664693/116171176-f19f5b00-a710-11eb-84e9-b16771b30e2d.png" width="55x"></img></a>)
-
-[//]: # (<a href="https://www.instagram.com/torukobyte" target="_blank"><img src="https://user-images.githubusercontent.com/61664693/116333770-b702f480-a7dc-11eb-8654-0378659e4719.png" width="55px"></img></a>)
-
-[//]: # (<a href="mailto:sygrok@gmail.com" target="_blank"><img src="https://user-images.githubusercontent.com/61664693/116171180-f237f180-a710-11eb-9aea-560e6d4490b7.png" width="55px"></img></a>)
-
-
-
-<a href="https://www.javascript.com/"><img src="https://user-images.githubusercontent.com/61664693/116169142-b569fb80-a70c-11eb-8de0-029cbc2b2aef.png" width="40px"></img></a>
-<a href="https://www.typescriptlang.org/"><img src="https://user-images.githubusercontent.com/61664693/116169149-b6029200-a70c-11eb-9169-e68b84f77b9c.png" width="40px"></img></a>
-<a href="https://reactjs.org/" ><img src="https://user-images.githubusercontent.com/61664693/116169130-b3a03800-a70c-11eb-9a72-bc4842458b80.png" width="40px"></img></a>
-<a href="https://angular.io/" ><img src="https://user-images.githubusercontent.com/61664693/116169133-b438ce80-a70c-11eb-8e91-4d57e3f94851.png" width="40px"></img></a>
-<a href="https://angular.io/" ><img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_960_720.png" width="40px"></img></a>
-<a href="https://angular.io/" ><img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png" width="40px"></img></a>
-<a href="https://angular.io/" ><img src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" width="40px"></img></a>
+<h2 align='center''> Languages and Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px> </h2>
+<p align='center'>
+<img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'>
+<img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'> 
+<img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'>  
+<img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'>                               <img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bootstrap.svg'>              
+                                                                                        
+<img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/angularjs.svg'>
+<img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg'>  
+                                   
+<img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'>
+<img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'>
+<img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg'>
 
 
-<hr>
-<p>
-  <a href="https://github.com/sygrok" target="_blank">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=sygrok&theme=nord&date_format=j%20M%5B%20Y%5D" />
-  </a>
-  </p>
-
-
-
-
-</div>
+<br>
+</p><br>
+<p align="center"> 
+  Visitor Count<br>
+  <img src="https://profile-counter.glitch.me/sygrok/count.svg" height = 20px />
+</p>
