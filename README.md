@@ -41,19 +41,11 @@
 </p>
   <p>
   <a href="https://github.com/sygrok" target="_blank">
-    ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=sygrok&show_icons=true&theme=radical)
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=sygrok&theme=nord&date_format=j%20M%5B%20Y%5D" />
   </a>
   </p>
 
 
-
-
-  <!-- <p>
-  <a href="https://github.com/kalayciburak?tab=repositories" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalayciburak&layout=compact&show_icons=true&theme=nord">
-  </a>
-  </p> -->
-
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=sygrok&show_icons=true&theme=radical)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=sygrok&theme=nord)](https://github.com/sygrok)
 </div>
