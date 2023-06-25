@@ -46,6 +46,6 @@
   </p>
 
 
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=sygrok&show_icons=true&theme=radical)
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=sygrok&theme=nord)](https://github.com/sygrok)
+![Sygroks's GitHub stats](https://github-readme-stats.vercel.app/api?username=sygrok&show_icons=true&theme=radical)
+
 </div>
