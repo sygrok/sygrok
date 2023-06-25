@@ -32,11 +32,11 @@
 
 
 <hr>
-
-<p align="center">
- ![Sygroks's GitHub stats](https://github-readme-stats.vercel.app/api?username=sygrok&show_icons=true&theme=radical)
-</p>
-  
+<p>
+  <a href="https://github.com/sygrok" target="_blank">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=sygrok&theme=nord&date_format=j%20M%5B%20Y%5D" />
+  </a>
+  </p>
 
 
 
